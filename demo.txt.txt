@@ -1,2 +1,4 @@
 commit 1
 commit 2
+
+ new commit now for merge
